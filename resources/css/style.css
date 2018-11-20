@@ -1,0 +1,50 @@
+/* General */
+html, body {
+	font-size: 16px;
+	cursor: wait;
+}
+
+body { 
+	background-image: url("../images/WPU-OpenHouse-2017.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: 'Allerta Stencil', sans-serif;
+	font-weight: bold;
+	padding-bottom: 350px;
+}
+
+p {
+
+}
+
+.letter {
+	font-size: 1.6em;
+	font-family: 'Merriweather', serif;
+	color: #ffffff;
+	background-color: #000000;
+	opacity: 0.5;
+	width: 100%;
+	text-align: center;
+}
+
+
+/* Text Alighnment */
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+footer {
+	color: silver;
+}
